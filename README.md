@@ -1,4 +1,5 @@
 # CurrencyConversion
+This has been changed to use Bank.Note instead of Money for conversion.
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/jshmrtn/currency-conversion/master/LICENSE)
 [![Build Status](https://travis-ci.org/jshmrtn/currency-conversion.svg?branch=master)](https://travis-ci.org/jshmrtn/currency-conversion)
